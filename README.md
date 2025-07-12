@@ -26,3 +26,8 @@ This project is an excellent introduction to multithreaded network communication
 
 Overall, the Chat Server and Client Java program is a practical, hands-on project that provides a foundational understanding of how real-time communication works over a network, making it ideal for students, developers, or anyone learning about Java network programming.
 
+# 0UTPUT
+
+<img width="1918" height="382" alt="Image" src="https://github.com/user-attachments/assets/8b4a9f7b-c8df-4246-9db6-d10f93cae2e8" />
+
+<img width="1902" height="376" alt="Image" src="https://github.com/user-attachments/assets/337c4526-96c3-4e83-842a-c8df0e925f3a" />
